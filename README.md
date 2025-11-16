@@ -7,8 +7,8 @@ The portfolio includes two academic research papers and one real-world LLM-based
 
 ## 📚 Table of Contents
 1. [Impulsive Purchase Behavior Analysis](research_impulse_purchase/)  
-2. [Behavioral Analytics under Risk Contexts](behavioral_risk_contexts/)  
-3. [LLM-Based Data Analysis Chatbot](llm_chatbot/)
+2. [Behavioral Analytics under Risk Contexts](Behavioral_Analytics_under_Risk/)  
+3. [LLM-Based Data Analysis Chatbot](LLM_Chatbot_Side_Project/)
 ---
 
 ## 1. Impulsive Purchase Behavior Analysis  
