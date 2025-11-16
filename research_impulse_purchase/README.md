@@ -7,7 +7,8 @@ The study integrates **psychological constructs**, **quantitative modeling**, an
 ---
 
 ## Paper  
-- [Download PDF](./research-impulse-purchase/Impulsive purchase behavior analysis.pdf)
+- [Download PDF](./impulsive_purchase_behavior_analysis.pdf)
+
 
 ---
 
